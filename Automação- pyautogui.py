@@ -27,7 +27,7 @@ pyautogui.press("tab") # passando pro próximo campo
 pyautogui.write("sua senha")
 # entrar 
 pyautogui.click(x=955, y=638) # clique no botao de login
-# Auardar 3 segundos 
+# Aguardar 3 segundos 
 time.sleep(3)
 
 # Passo 3: Importar a base de produtos pra cadastrar
